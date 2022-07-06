@@ -3,12 +3,12 @@
   [
     {
       "select_ads":"APPLOVIN",
-      "status_redirect":"",
-      "link_redirect":"",
+      "status_redirect":"0",
+      "link_redirect":"https://play.google.com/store/apps/developer?id=Tricaal+Studio",
       "admob_inter":"",
       "admob_banner":"",
       "admob_open_ads":"",
-      "interval":"",
+      "interval":"1",
       "unityID":"",
       "unity_banner":"",
       "unity_inter":"",
